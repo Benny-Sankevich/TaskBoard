@@ -4,7 +4,7 @@ html, body {
     margin: 0;
     direction: ltr;
     font-size: x-large;
-    background: url("assets/images/tile.jpg");
+    background: url("/assets/images/tile.jpg");
 }
 
 @font-face {
